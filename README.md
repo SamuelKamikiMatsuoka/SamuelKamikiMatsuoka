@@ -6,7 +6,7 @@ Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP,
 
 
 
-![App Screenshot](https://www.icegif.com/wp-content/uploads/2024/09/anime-icegif-4.gif)
+![App Screenshot](https://gifdb.com/images/high/anime-boy-hyouka-hotaroorek-fecqgpebp1smhhy1.gif)
 
 
 ## 🔗 Links
@@ -35,9 +35,3 @@ Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP,
 
 ## 🛠 Habilidades
 Loading......
-## Roadmap
-
-- Melhorar o suporte de navegadores
-
-- Adicionar mais integrações
-
