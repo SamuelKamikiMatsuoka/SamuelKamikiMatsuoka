@@ -6,7 +6,7 @@ Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP,
 
 
 
-![App Screenshot](https://gifdb.com/images/high/anime-boy-hyouka-hotaroorek-fecqgpebp1smhhy1.gif)
+![App Screenshot](https://media4.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif?cid=6c09b952ere97m2g7xz7wzrokipoeiel3ofgghg4enad5sml&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## 🔗 Links
