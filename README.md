@@ -22,15 +22,11 @@ Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP,
 
 👑 Procuro colaborar 
 
-🤔 Procuro ajuda com...
-
-💬 Me pergunte sobre...
-
-📫 Como entrar em contato comigo...
+📫 Como entrar em contato comigo(linkedin)
 
 😄 HE/HIM
 
-⚡️ Com anos de experiencia em piratirar programas 🌟👍
+⚡
 
 
 ## 🛠 Habilidades
