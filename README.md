@@ -6,8 +6,8 @@ Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP 
 
 
 
-[<img width="220" height="217" alt="image" src="https://github.com/user-attachments/assets/26f7ad40-69c9-47ee-807d-435ab685a41d" />](https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif)
-
+[[<img width="220" height="217" alt="image" src="https://github.com/user-attachments/assets/26f7ad40-69c9-47ee-807d-435ab685a41d" />](https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif)
+](https://64.media.tumblr.com/5c10da9ffafcb16e6e8b8b4f32dc2714/tumblr_potvqyNNBC1wv5hmyo2_r1_540.gifv)
 
 
 ## 🔗 Links
