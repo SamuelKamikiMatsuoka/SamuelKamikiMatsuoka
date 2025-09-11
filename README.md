@@ -1,12 +1,13 @@
 
 ## 🚀 Sobre mim
-Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP, gosto de aprender novos idiomas e minha comida favorita é strogonoffe 👍╰(*°▽°*)╯
+Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP 👍╰(*°▽°*)╯
 
 
 
 
 
-![App Screenshot](https://media4.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif?cid=6c09b952ere97m2g7xz7wzrokipoeiel3ofgghg4enad5sml&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[<img width="220" height="217" alt="image" src="https://github.com/user-attachments/assets/26f7ad40-69c9-47ee-807d-435ab685a41d" />](https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif)
+
 
 
 ## 🔗 Links
