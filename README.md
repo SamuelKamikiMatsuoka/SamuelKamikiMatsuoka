@@ -1,6 +1,6 @@
 
-## 🚀 Sobre mim
-Eu sou um estudante no curso tecnico de desenvolvimento de sistemas no Senai SP 👍╰(*°▽°*)╯
+
+
 
 
 
